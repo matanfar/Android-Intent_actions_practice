@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">HIT</string>
+    <string name="hit_logo_txt">HIT</string>
+    <string name="menu_btn_txt">לתפריט האפשרויות</string>
+    <string name="subtitle_txt">מגוון אפשרויות במטרה לעזור לסטודנטים</string>
+    <string name="location_btn_txt">מצא את המכללה על המפה</string>
+    <string name="website_btn_txt">עבור לאתר המכללה</string>
+    <string name="phone_btn_txt">חייג למזכירות</string>
+    <string name="mail_btn_txt">שלח למזכירות מייל</string>
+    <string name="event_btn_txt">נהל את הזמן</string>
+    <string name="mail_title">כותרת המייל</string>
+    <string name="mail_msg">תוכן המייל</string>
+    <string name="btn_mail_txt">שלח</string>
+    <string name="mail_title_txt"></string>
+    <string name="mail_msg_txt"></string>
+    <string name="event_title_txt">אנא בחר את הפעולה הרצויה: הפעלת התראה - ליצירת מאורע חשוב בלימודים, או שמא טיימר - לחישוב מאורע לאחור שקשור ללימודים</string>
+    <string name="alarm_btn_txt">צור אירוע</string>
+    <string name="timer_btn_txt">הפעל טיימר</string>
+    <string name="alarm_title">בחר נושא</string>
+    <string name="alarm_title2"></string>
+    <string name="alarm_hour">בחר שעה</string>
+    <string name="alarm_hour2"></string>
+    <string name="alarm_min">בחר דקות</string>
+    <string name="alarm_min2"></string>
+    <string name="btn_alarm_txt">צור התראה</string>
+    <string name="timer1_txt">בחר נושא</string>
+    <string name="timer2_txt"></string>
+    <string name="timer3_txt">מספר השניות</string>
+    <string name="timer4_txt"></string>
+    <string name="btn_timer_txt">הפעל טיימר</string>
+    <string name="menu_title_txt">אנא בחר באחת מהאופציות לנוחיותך</string>
+    <string name="subtitle_main_txt">מטרת האפליקציה היא לעזור לך - הסטודנט - בניהול זמן ומידע הנוגעים למכון הטכנולוגי בחולון</string>
+
+
+</resources>
